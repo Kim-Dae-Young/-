@@ -1,0 +1,21 @@
+C:\Users\USER\Desktop\new project\intro\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Users\USER\Desktop\new project\intro\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Users\USER\Desktop\new project\intro\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Users\USER\Desktop\new project\intro\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\new project\intro\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\new project\intro\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Users\USER\Desktop\new project\intro\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\Users\USER\Desktop\new project\2장 - intro\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Users\USER\Desktop\new project\2장 - intro\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Users\USER\Desktop\new project\2장 - intro\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Users\USER\Desktop\new project\2장 - intro\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\new project\2장 - intro\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\new project\2장 - intro\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Users\USER\Desktop\new project\2장 - intro\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\Users\USER\Desktop\new project\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\new project\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\new project\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Users\USER\Desktop\new project\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\Users\USER\Desktop\new project\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Users\USER\Desktop\new project\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Users\USER\Desktop\new project\UltimateBaseball\bin\Debug\UltimateBaseball.pdb

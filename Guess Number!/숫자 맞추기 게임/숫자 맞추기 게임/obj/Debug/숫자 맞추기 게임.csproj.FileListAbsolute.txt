@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\new project\Guess Number!\숫자 맞추기 게임\숫자 맞추기 게임\bin\Debug\숫자 맞추기 게임.exe.config
+C:\Users\USER\Desktop\new project\Guess Number!\숫자 맞추기 게임\숫자 맞추기 게임\bin\Debug\숫자 맞추기 게임.exe
+C:\Users\USER\Desktop\new project\Guess Number!\숫자 맞추기 게임\숫자 맞추기 게임\bin\Debug\숫자 맞추기 게임.pdb
+C:\Users\USER\Desktop\new project\Guess Number!\숫자 맞추기 게임\숫자 맞추기 게임\obj\Debug\숫자 맞추기 게임.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\new project\Guess Number!\숫자 맞추기 게임\숫자 맞추기 게임\obj\Debug\숫자 맞추기 게임.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\new project\Guess Number!\숫자 맞추기 게임\숫자 맞추기 게임\obj\Debug\숫자 맞추기 게임.exe
+C:\Users\USER\Desktop\new project\Guess Number!\숫자 맞추기 게임\숫자 맞추기 게임\obj\Debug\숫자 맞추기 게임.pdb

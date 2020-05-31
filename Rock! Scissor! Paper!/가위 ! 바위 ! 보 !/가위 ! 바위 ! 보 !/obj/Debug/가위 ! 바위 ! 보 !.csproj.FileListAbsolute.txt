@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\new project\Rock! Scissor! Paper!\가위 ! 바위 ! 보 !\가위 ! 바위 ! 보 !\obj\Debug\가위 ! 바위 ! 보 !.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\new project\Rock! Scissor! Paper!\가위 ! 바위 ! 보 !\가위 ! 바위 ! 보 !\obj\Debug\가위 ! 바위 ! 보 !.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\new project\Rock! Scissor! Paper!\가위 ! 바위 ! 보 !\가위 ! 바위 ! 보 !\bin\Debug\가위 ! 바위 ! 보 !.exe.config
+C:\Users\USER\Desktop\new project\Rock! Scissor! Paper!\가위 ! 바위 ! 보 !\가위 ! 바위 ! 보 !\bin\Debug\가위 ! 바위 ! 보 !.exe
+C:\Users\USER\Desktop\new project\Rock! Scissor! Paper!\가위 ! 바위 ! 보 !\가위 ! 바위 ! 보 !\bin\Debug\가위 ! 바위 ! 보 !.pdb
+C:\Users\USER\Desktop\new project\Rock! Scissor! Paper!\가위 ! 바위 ! 보 !\가위 ! 바위 ! 보 !\obj\Debug\가위 ! 바위 ! 보 !.exe
+C:\Users\USER\Desktop\new project\Rock! Scissor! Paper!\가위 ! 바위 ! 보 !\가위 ! 바위 ! 보 !\obj\Debug\가위 ! 바위 ! 보 !.pdb
